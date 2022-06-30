@@ -1,2 +1,2 @@
-# .NET-Core-Api-With-Hotchocolate-Framework
-Implemented Dotnet core API with Hotchococlate Framework(GraphQL)
+# GraphQL API in ASP.NET CORE - II
+An Example of how you can implement a GraphQ Backend aka API in AS.NET Core(3.1) using the Hotchococlate Framework.
